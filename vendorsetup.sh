@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo twrp_C0070WW-user
-add_lunch_combo twrp_C0070WW-userdebug
-add_lunch_combo twrp_C0070WW-eng
+COMMON_LUNCH_CHOICES twrp_C0070WW-user
+COMMON_LUNCH_CHOICES twrp_C0070WW-userdebug
+COMMON_LUNCH_CHOICES twrp_C0070WW-eng
